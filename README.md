@@ -1,28 +1,36 @@
-# AnimalCare
-Animal Care Mobile App Landing Page
-Overview
+# 🚀Animal Care App
+
+## Project Description
 The Animal Care Mobile App Landing Page is a simple landing page built using Expo, a framework for developing cross-platform mobile applications using React Native. It serves as the entry point for the app and provides a visually appealing introduction to the app's purpose and design. This README file provides a brief overview of the landing page and credits to the design owner.
 
-Design Credits
-The design for the Animal Care Mobile App Landing Page was created by Budiarti R. for Orely on Dribbble. We would like to acknowledge and thank Budiarti R. for their outstanding design skills and contribution to the visual appeal of the landing page.
 
-Design Credits:
+## Features
 
-Designer: Budiarti R.
-Design Source: Orely on Dribbble
-Installation and Usage
-To view the Animal Care Mobile App Landing Page, follow these steps:
+- **Navigation**: Users can navigate between different screens/pages of the app using the Expo Router navigation system.
+- **Page Screens**: The app includes multiple screens/pages to simulate different sections of the doc app, such as  user, animal pag e.t.c
+- **UI Elements**: The UI elements used in the app resemble the design and style of the AnimalCare App, providing a familiar and intuitive user experience.
 
-Clone the repository: git clone <repository-url>
-Install the Expo CLI globally: npm install -g expo-cli
-Install the project dependencies: npm install
-Start the development server: expo start
-Follow the instructions in the Expo CLI to open the app on a physical device or emulator.
-Ensure that you have the necessary development environment and tools set up to run Expo projects. For detailed instructions, refer to the official Expo documentation.
+## Installation
 
-Customization
-The landing page can be easily customized to suit your needs. You can modify the content, styles, and images to reflect your branding or specific requirements. The code for the landing page can be found in the respective files within the repository.
+To run the AnimalCare App locally on your development environment, follow these steps:
 
-Credits and Acknowledgements
-I would like to express our gratitude to Budiarti R. for their exceptional design work on the Animal Care Mobile App Landing Page. The captivating design enhances the visual appeal of the landing page and contributes to a positive user experience.
+1. Clone the repository: `git clone [repository-url]`
+2. Install the dependencies: `npm install` or `yarn install`
+3. Start the development server: `npm start` or `yarn start`
+4. Run the app on an emulator/simulator or a physical device using the preferred development tool (e.g., Expo Go app).
 
+## Technologies Used
+
+- React Native: The core framework for building the mobile app, providing a cross-platform development environment.
+- Expo: A set of tools and services for developing and deploying React Native apps more easily.
+- Expo Router: A navigation library for handling app navigation and routing in the Doc App.
+
+
+## Credits
+Designer: Rifayet Uday
+Design Source: Dribbble
+
+
+## Feedback and Contributions
+
+Feel free to provide feedback or suggestions for improvements. Contributions to the project are also welcome! Please create an issue or submit a pull request if you would like to contribute.
